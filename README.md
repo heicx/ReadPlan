@@ -6,10 +6,10 @@
 *  协作阅读可以让你了解到别人考虑同一问题时，出发点、思路与自己的差异。
 
 第一期
-*  JavaScript 高级程序设计(第三版)
-*  CSS权威指南
-*  JavaScript 异步编程
-*  Backbone.js 应用程序开发
+- [x] JavaScript 高级程序设计(第三版)
+- [ ] CSS权威指南
+- [ ] JavaScript 异步编程
+- [x] Backbone.js 应用程序开发
 
 第二期
 *  JavaScript 权威指南 
