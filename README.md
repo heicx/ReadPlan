@@ -13,7 +13,7 @@
 
 第二期
 - [x] JavaScript 权威指南 
-*  图解CSS3
+- [x] 图解CSS3
 *  HTML5 Canvas核心技术
 - [x] AngularJS 权威教程
 
